@@ -8,3 +8,11 @@ else
 echo "$n la so le";
 fi
 
+=======
+if ((n%2!=0))
+then 
+echo "$n la so le";
+else
+echo "$n la so chan";
+fi
+
