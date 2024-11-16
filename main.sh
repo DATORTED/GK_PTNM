@@ -1,6 +1,6 @@
 echo "Nhap vao 1 so nguyen:";
 read n;
-if ((n%20=0))
+if ((n%2==0))
 then 
 echo "$n la so chan";
 else
